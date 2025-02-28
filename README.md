@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨  I'm a simple person living in this world since the 90's;<br>📚 Currently learning Typescript and React;<br>🎯 Goals: a career that fulfills me;<br>🎲 Fun fact: I'm a book addict and a fake pianist</p>
+<p align="left">✨ I'm a simple person living in this world since the 90's;<br>📚 Currently learning Typescript and React;<br>🎯 Goals: a career that fulfills me;<br>🎲 Fun fact: I'm a book addict and a failure pianist because i don't practice</p>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###

@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm a simple person living in this world since the 90's;<br>📚 Currently learning Typescript and React;<br>🎯 Goals: a career that fulfills me;<br>🎲 Fun fact: I love books and Ludovico Einaudi</p>
+<p align="left">✨ I'm a simple person living in this world since the 90's;<br>📚 Currently learning Typescript and React;<br>🎯 Goals: a career that fulfills me;<br>🎲 Fun fact: I love books and Ludovico Einaudi.</p>
 
 ###
 
